@@ -1,6 +1,6 @@
 ## Olá, me chamo _Gabriel Pena._
 
-- 🌱 Eu estou estudando para ser um dev fullstack com especialidade no front end
+- 🌱 Eu estou estudando para ser um dev fullstack
 
 - 💬 Você pode me perguntar coisas sobre o font end no qual estou mais enganjado sobre o assunto.
 - 📫 email : kbeca.gabriel793@gmail.com; instagram : https://www.instagram.com/gabrielgpena/
