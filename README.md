@@ -2,7 +2,7 @@
 
 - 🌱 Eu estou estudando para ser um dev fullstack
 
-- 💬 Você pode me perguntar coisas sobre o font end no qual estou mais enganjado sobre o assunto.
+- 💬 Estou sempre a disposição para adquirir e compartilhar informações.
 - 📫 email : kbeca.gabriel793@gmail.com; instagram : https://www.instagram.com/gabrielgpena/
 - ⚡ especialidades: HTML, CSS e Javascript
 
