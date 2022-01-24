@@ -4,7 +4,7 @@
 
 - 💬 Estou sempre a disposição para adquirir e compartilhar informações.
 - 📫 email : kbeca.gabriel793@gmail.com; instagram : https://www.instagram.com/gabrielgpena/
-- ⚡ especialidades: HTML, CSS e Javascript, java
+- ⚡ especialidades: HTML, CSS, Javascript, java
 
 
 
