@@ -5,9 +5,13 @@
 - 💬 Estou sempre a disposição para adquirir e compartilhar informações.
 - 📫 email : kbeca.gabriel793@gmail.com; instagram : https://www.instagram.com/gabrielgpena/
 - ⚡ especialidades: HTML, CSS, Javascript, java
+---
+ ### Curiosidades sobre mim:
+ 
+  Sou instrutor de kung fu, adoro ensinar e ver o progresso dos meus alunos/companheiros de equipe, dou sempre o melhor para alcançar meus objetivos, não existe tempo ruim para eu fazer oque tem que ser feito, se coloco um objetivo em mente vou buscar da melhor maneira possivel!
 
 
-
+---
 
  <div>
   <a href="https://github.com/gabrielGPena793">
