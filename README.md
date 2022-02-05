@@ -8,7 +8,7 @@
 ---
  ### Curiosidades sobre mim:
  
-  Sou instrutor de kung fu, adoro ensinar e ver o progresso dos meus alunos/companheiros de equipe, dou sempre o melhor para alcançar meus objetivos, não existe tempo ruim para eu fazer oque tem que ser feito, se coloco um objetivo em mente vou buscar da melhor maneira possivel!
+  Sou instrutor de kung fu, adoro ensinar e ver o progresso dos meus alunos/companheiros de equipe, dou sempre o melhor para alcançar meus objetivos, não existe tempo ruim para eu fazer o que tem que ser feito, se coloco um objetivo em mente vou atrás de alcançar da melhor maneira possivel!
 
 
 ---
