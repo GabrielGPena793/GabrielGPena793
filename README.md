@@ -1,7 +1,6 @@
 ## Olá, me chamo _Gabriel Pena._
 
 - 🌱 Eu estou estudando para ser um dev fullstack
-
 - 💬 Estou sempre a disposição para adquirir e compartilhar informações.
 - 📫 email : kbeca.gabriel793@gmail.com; instagram : https://www.instagram.com/gabrielgpena/
 - ⚡ especialidades: HTML, CSS, Javascript, java
