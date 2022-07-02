@@ -31,7 +31,7 @@
   <img align="center" alt="Pena-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
 </div>
  
-<img align="right" alt="meu-gif" src="https://i.picasion.com/pic91/a8be6832b93ec4c2e1232fd49ac66d6b.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
+<img align="right" alt="meu-gifs" src="https://i.picasion.com/pic91/a8be6832b93ec4c2e1232fd49ac66d6b.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
   
 
 ##                                                                  
