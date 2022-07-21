@@ -29,6 +29,8 @@
   <img align="center" alt="Pena-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Pena-dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Pena-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="Pena-typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
+  <img align="center" alt="Pena-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 </div>
  
 <img align="right" alt="meu-gifs" src="https://i.picasion.com/pic91/a8be6832b93ec4c2e1232fd49ac66d6b.gif" width="125" height="125" border="0" alt="https://picasion.com/" />
